@@ -1,25 +1,25 @@
 [
-{
-    "Author":  "山姆奥特曼",
-    "Name":  "FF14小玩意",
-    "InternalName":  "FPT",
-    "AssemblyVersion":  "0.2.0.0",
-    "ApplicableVersion":  "any",
-    "DalamudApiLevel":  15,
-    "Punchline":  "FF14 小工具集合，内置深宫助手与斯普拉通。",
-    "Description":  "包含移动、传送、战斗辅助、雷达与透视工具，并内置深宫助手和斯普拉通。深宫助手通过 FPT 内部接口直接使用斯普拉通，斯普拉通保留本地 HTTP 接口与默认端口 47774。",
-    "Tags":  [
-                 "工具",
-                 "深层迷宫",
-                 "斯普拉通",
-                 "雷达"
-             ],
-    "RepoUrl":  "https://github.com/zxcplll/FF14-FPT-Dist",
-    "IconUrl":  "https://raw.githubusercontent.com/zxcplll/FF14-FPT-Dist/main/plugins/FPT/FptLauncherIcon.png",
-    "DownloadLinkInstall":  "https://raw.githubusercontent.com/zxcplll/FF14-FPT-Dist/main/plugins/FPT/latest.zip",
-    "DownloadLinkUpdate":  "https://raw.githubusercontent.com/zxcplll/FF14-FPT-Dist/main/plugins/FPT/latest.zip",
-    "DownloadLinkTesting":  "https://raw.githubusercontent.com/zxcplll/FF14-FPT-Dist/main/plugins/FPT/latest.zip",
-    "DownloadCount":  0,
-    "LastUpdate":  1786800173
-}
+    {
+        "Author":  "山姆奥特曼",
+        "Name":  "FF14小玩意",
+        "InternalName":  "FPT",
+        "AssemblyVersion":  "0.2.1.0",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "Punchline":  "FF14 小工具集合，内置深宫助手与斯普拉通。",
+        "Description":  "包含移动、传送、战斗辅助、雷达与透视工具，并内置深宫助手和斯普拉通。深宫助手通过 FPT 内部接口直接使用斯普拉通，斯普拉通保留本地 HTTP 接口与默认端口 47774。",
+        "Tags":  [
+                     "工具",
+                     "深层迷宫",
+                     "斯普拉通",
+                     "雷达"
+                 ],
+        "RepoUrl":  "https://github.com/zxcplll/FF14-FPT-Dist",
+        "IconUrl":  "https://raw.githubusercontent.com/zxcplll/FF14-FPT-Dist/main/plugins/FPT/FptLauncherIcon.png",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/zxcplll/FF14-FPT-Dist/main/plugins/FPT/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/zxcplll/FF14-FPT-Dist/main/plugins/FPT/latest.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/zxcplll/FF14-FPT-Dist/main/plugins/FPT/latest.zip",
+        "DownloadCount":  0,
+        "LastUpdate":  1786806750
+    }
 ]
