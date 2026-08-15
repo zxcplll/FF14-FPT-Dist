@@ -13,10 +13,10 @@
                      "雷达"
                  ],
         "RepoUrl":  "https://github.com/zxcplll/FF14-FPT-Dist",
-        "IconUrl":  "https://raw.githubusercontent.com/zxcplll/FF14-FPT-Dist/main/plugins/FPT/FptLauncherIcon.png",
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/zxcplll/FF14-FPT-Dist/main/plugins/FPT/latest.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/zxcplll/FF14-FPT-Dist/main/plugins/FPT/latest.zip",
-        "DownloadLinkTesting":  "https://raw.githubusercontent.com/zxcplll/FF14-FPT-Dist/main/plugins/FPT/latest.zip",
+        "IconUrl":  "https://raw.githubusercontent.com/zxcplll/FF14-XWY/main/plugins/FPT/FptLauncherIcon.png",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/zxcplll/FF14-XWY/main/plugins/FPT/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/zxcplll/FF14-XWY/main/plugins/FPT/latest.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/zxcplll/FF14-XWY/main/plugins/FPT/latest.zip",
         "DownloadCount":  0,
         "LastUpdate":  1786806750
     }
