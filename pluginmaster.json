@@ -1,23 +1,23 @@
 [
-    {
-        "Author":  "山姆奥特曼",
-        "Name":  "FF14小玩意",
-        "InternalName":  "FPT",
-        "AssemblyVersion":  "0.2.1.0",
-        "ApplicableVersion":  "any",
-        "DalamudApiLevel":  15,
-        "Punchline":  "FF14小玩意集合。",
-        "Description":  "包含雷达与透视工具。",
-        "Tags":  [
-                     "工具",
-                     "雷达"
-                 ],
-        "RepoUrl":  "https://github.com/zxcplll/FF14-XWY",
-        "IconUrl":  "https://raw.githubusercontent.com/zxcplll/FF14-XWY/main/plugins/FPT/FptLauncherIcon.png",
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/zxcplll/FF14-XWY/main/plugins/FPT/latest.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/zxcplll/FF14-XWY/main/plugins/FPT/latest.zip",
-        "DownloadLinkTesting":  "https://raw.githubusercontent.com/zxcplll/FF14-XWY/main/plugins/FPT/latest.zip",
-        "DownloadCount":  0,
-        "LastUpdate":  1786806750
-    }
+  {
+    "Author": "山姆奥特曼",
+    "Name": "FF14小玩意",
+    "InternalName": "FPT",
+    "AssemblyVersion": "0.2.2.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Punchline": "FF14小玩意集合。",
+    "Description": "包含雷达与透视工具。",
+    "Tags": [
+      "工具",
+      "雷达"
+    ],
+    "RepoUrl": "https://github.com/zxcplll/FF14-XWY",
+    "IconUrl": "https://raw.githubusercontent.com/zxcplll/FF14-XWY/main/plugins/FPT/FptLauncherIcon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/zxcplll/FF14-XWY/main/plugins/FPT/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/zxcplll/FF14-XWY/main/plugins/FPT/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/zxcplll/FF14-XWY/main/plugins/FPT/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 1786933637
+  }
 ]
