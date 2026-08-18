@@ -3,7 +3,7 @@
     "Author": "山姆奥特曼",
     "Name": "FF14小玩意",
     "InternalName": "FPT",
-    "AssemblyVersion": "0.2.3.0",
+    "AssemblyVersion": "0.2.4.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Punchline": "FF14小玩意集合。",
@@ -18,6 +18,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/zxcplll/FF14-XWY/main/plugins/FPT/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/zxcplll/FF14-XWY/main/plugins/FPT/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1786935831
+    "LastUpdate": 1787058038
   }
 ]
